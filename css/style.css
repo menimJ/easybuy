@@ -1,0 +1,37 @@
+.bg-half-100 {
+  padding: 100px 0;
+}
+
+.text-danger {
+  color: #e6284a;
+}
+
+.primary {
+  color: #e6284a;
+}
+
+.secondary {
+  color: #727272;
+}
+.text-muted {
+  color: #727272 !important;
+}
+.text-light {
+  color: #fff;
+}
+
+.bg {
+  min-height: 100vh;
+  background: #e6284a;
+  background: -webkit-linear-gradient(top, #fff 65%, #e6284a 100%);
+  background: -moz-linear-gradient(top, #fff 65%, #e6284a 100%);
+  background: linear-gradient(top, #fff 65%, #e6284a 100%);
+}
+
+.bg-2 {
+  min-height: 100vh;
+  background: #727272;
+  background: -webkit-linear-gradient(top, #fff 70%, #727272 100%);
+  background: -moz-linear-gradient(top, #fff 70%, #727272 100%);
+  background: linear-gradient(top, #fff 70%, #727272 100%);
+}
